@@ -1,0 +1,15 @@
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos\FiapDonationSystem\bin\Debug\net7.0\FiapDonationSystem.exe
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos\FiapDonationSystem\bin\Debug\net7.0\FiapDonationSystem.deps.json
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos\FiapDonationSystem\bin\Debug\net7.0\FiapDonationSystem.runtimeconfig.json
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos\FiapDonationSystem\bin\Debug\net7.0\FiapDonationSystem.dll
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos\FiapDonationSystem\bin\Debug\net7.0\FiapDonationSystem.pdb
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos\FiapDonationSystem\obj\Debug\net7.0\FiapDonationSystem.csproj.AssemblyReference.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos\FiapDonationSystem\obj\Debug\net7.0\FiapDonationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos\FiapDonationSystem\obj\Debug\net7.0\FiapDonationSystem.AssemblyInfoInputs.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos\FiapDonationSystem\obj\Debug\net7.0\FiapDonationSystem.AssemblyInfo.cs
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos\FiapDonationSystem\obj\Debug\net7.0\FiapDonationSystem.csproj.CoreCompileInputs.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos\FiapDonationSystem\obj\Debug\net7.0\FiapDonationSystem.dll
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos\FiapDonationSystem\obj\Debug\net7.0\refint\FiapDonationSystem.dll
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos\FiapDonationSystem\obj\Debug\net7.0\FiapDonationSystem.pdb
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos\FiapDonationSystem\obj\Debug\net7.0\FiapDonationSystem.genruntimeconfig.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\NovaGrade\Projetos\FiapDonationSystem\obj\Debug\net7.0\ref\FiapDonationSystem.dll
